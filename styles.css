@@ -84,4 +84,6 @@ section:target {
 
 img {
   border: 4px dashed black;
+  max-width: 400px;
+  min-width: 200px;
 }
